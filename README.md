@@ -1,4 +1,4 @@
-# Proyecto Urban Lunch - Sprint_5
+# Proyecto Urban Lunch - Sp_5
 
 ## Pruebas manuales para comprobar su correcto funcionamiento en su primera versión para Android SO.
 
